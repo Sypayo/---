@@ -1,0 +1,14 @@
+.container {
+	width: 903px;
+}
+
+#runButton {
+	margin-top: 10px;
+	width: 100px;
+}
+
+#lifeGame {
+	border-style: solid;
+	border-width: 1.5px;
+	border-color: #000000;
+}
